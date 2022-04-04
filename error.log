@@ -1,0 +1,6 @@
+PDO ERROR: SQLSTATE[HY000] [1045] Access denied for user 'javiera'@'localhost' (using password: YES) storage in error.log
+PDO ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' storage in error.log
+PDO ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' storage in error.log
+PDO ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' storage in error.log
+PDO ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' storage in error.log
+PDO ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' storage in error.log

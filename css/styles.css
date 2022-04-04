@@ -1,0 +1,102 @@
+body {
+    margin-left: 30px;
+}
+.container-fluid {
+    margin-right: 30px;
+}
+/* NAVIGATION BARS SECTION*/
+.imgCart {
+    margin-top: 20px;
+}
+.navAlign {
+    margin-top: 20px;
+}
+/* ---------------- */
+
+/* SEARCH NAVIGATION SECTION*/
+.searchBTN {
+    margin: 40px 0 0 17px;
+}
+.searchBox {
+    border-bottom: 2px solid black;
+    margin-top: 40px;
+}
+.searchBox p {
+    display: inline-flex;
+}
+.poweredBy {
+    float: right;
+    font-size: 10px;
+    margin-top: 20px;
+}
+/* --------- */
+
+/*BEST MATCH BUTTON*/
+.dropdown {
+    margin-top: 42px;
+    border-bottom: 2px solid lightgray;
+}
+.btn {
+    width: 100%;
+    text-align: left;
+}
+/* -------- */
+
+
+/* PRODUCTS NAVIGATION ROW*/
+.filterBy {
+    margin-top: 40px;
+    margin-left: 5px;
+    color:lightgray;
+    background-color: #f8f9fa;
+}
+.products {
+    margin-top: 40px;
+    text-align: center;
+    padding: 0 80px 0 80px;
+}
+.bgColorFilter {
+    background-color: black;
+}
+.prodDesc {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    float: left;
+}
+.prodDescB {
+    text-align: right;
+}
+
+/* PAGINATION SECTION*/
+.paginacion {
+	margin:20px 0;
+}
+
+.paginacion ul {
+	list-style:none;
+	text-align: center;
+}
+
+.paginacion ul li {
+	display:inline-block;
+	margin-right:10px;
+}
+
+.paginacion ul li a {
+	display:block;
+	padding:10px 20px;
+	text-decoration: none;
+}
+
+.paginacion ul li a:hover {
+	background: black;
+}
+
+.paginacion ul li .active {
+	background: black;
+	font-weight:bold;
+}
+.home {
+    color: red;
+}
